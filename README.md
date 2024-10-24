@@ -17,3 +17,4 @@ This project explores the application of Generative Adversarial Networks (GANs) 
 ## Next Steps
 - Implement GAN for synthetic data generation.
 - Evaluate model performance on real-world sustainability datasets.
+
