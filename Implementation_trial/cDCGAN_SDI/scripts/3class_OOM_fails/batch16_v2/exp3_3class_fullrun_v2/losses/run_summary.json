@@ -1,0 +1,18 @@
+{
+  "epochs": 82,
+  "seed": 42,
+  "batch_size": 16,
+  "latent_dim": 100,
+  "img_size": 128,
+  "target_counts": {
+    "0": 700,
+    "1": 700,
+    "2": 700
+  },
+  "checkpoint_epochs": [
+    21,
+    42,
+    82
+  ],
+  "save_sample_every": 5
+}

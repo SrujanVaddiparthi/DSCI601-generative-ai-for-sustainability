@@ -1,0 +1,18 @@
+{
+  "epochs": 200,
+  "batch_size": 16,
+  "half_batch": 8,
+  "latent_dim": 100,
+  "labels": {
+    "0": "normal",
+    "1": "scratch"
+  },
+  "target_counts": {
+    "0": 700,
+    "1": 700
+  },
+  "stratified_batching": true,
+  "randomized_scratch_enhancement": true,
+  "mild_geometric_augmentation": true,
+  "normal_mild_rotation_only": true
+}
