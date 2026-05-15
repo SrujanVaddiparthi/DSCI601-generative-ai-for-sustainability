@@ -1,5 +1,5 @@
 # Generative AI for Sustainability - Research Project
-
+![Project Banner] (Capstone_Poster.jpg)
 ## Overview
 This project explores the application of Generative Adversarial Networks (GANs) in computer vision for sustainability-related tasks such as object detection and anomaly detection.
 
