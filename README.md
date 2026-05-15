@@ -1,5 +1,11 @@
 # Generative AI for Sustainability - Research Project
-![Project Banner] (Capstone_Poster.jpg)
+<div align="center">
+  <img src="Capstone_Poster.jpg" alt="Project Banner" width="800"/>
+  <br>
+  <em>Figure 1: Overview of the GAN architecture for sustainability applications</em>
+</div>
+
+<br>
 ## Overview
 This project explores the application of Generative Adversarial Networks (GANs) in computer vision for sustainability-related tasks such as object detection and anomaly detection.
 
