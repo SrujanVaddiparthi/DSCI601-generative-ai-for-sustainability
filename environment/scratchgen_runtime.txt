@@ -1,0 +1,4 @@
+Python: Python 3.11.15
+Conda: conda 26.3.2
+Architecture: arm64
+macOS: 26.5.2
