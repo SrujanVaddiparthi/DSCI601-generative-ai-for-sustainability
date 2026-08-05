@@ -1,0 +1,20 @@
+{
+  "experiment": "controlled_simple_scratch_geometry",
+  "epochs": 82,
+  "batch_size": 16,
+  "half_batch": 8,
+  "steps_per_epoch": 87,
+  "latent_dim": 100,
+  "labels": {
+    "0": "normal",
+    "1": "scratch"
+  },
+  "target_per_class": 700,
+  "stratified_batching": true,
+  "class_balance": "50/50",
+  "scratch_enhancement": false,
+  "geometric_augmentation": false,
+  "fixed_z_checkpoint_evaluation": true,
+  "random_z_diversity_grids": true,
+  "data_dir": "/shared/rc/defgengan/data/simple_scratch_v1"
+}

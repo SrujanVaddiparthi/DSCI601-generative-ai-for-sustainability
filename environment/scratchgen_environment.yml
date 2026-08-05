@@ -1,0 +1,7 @@
+name: scratchgen
+channels:
+  - conda-forge
+dependencies:
+  - pillow
+  - numpy
+  - python=3.11
