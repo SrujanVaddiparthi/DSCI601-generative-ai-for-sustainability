@@ -43,10 +43,15 @@ Two controlled scratch experiments then removed complex metal texture and increa
 8. `docs/NEXT_STEPS.md`
 9. `reports/final_report/Synthetic_Industrial_Surface_Defect_Generation_Final_Report.pdf`
 
-## Public-release checks
+## Public-release status
 
-- Add the exact official SDI source URL and verify redistribution terms.
-- Add the original URL/license for reviewed third-party code.
-- Verify the intended public repository name/course number.
-- Move irreplaceable laptop-only artifacts into approved shared storage.
-- Scan for credentials and hard-coded personal paths.
+Completed:
+
+- Official SDI source URL and redistribution terms documented.
+- Intended public repository name and project/course references verified.
+- Credential and hard-coded personal-path scans completed.
+
+Remaining handoff actions:
+
+- Confirm the original URL and license for any reviewed third-party code still referenced by the repository.
+- Copy irreplaceable laptop-only artifacts and the private RC maintainer checklist into approved shared storage.
